@@ -4,7 +4,7 @@
     "url": "https://diva.so",
     "icon": "https://favicons.githubusercontent.com/diva.so",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 656,
     "timeMonth": 757,
     "timeYear": 703,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-28": 0
+    }
   },
   {
     "name": "Backend",
