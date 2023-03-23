@@ -5,14 +5,15 @@ repo: upptime # The name of this repository
 sites:
   - name: Main Site
     url: https://claros.so
-  - name: Dev Site
-    url: https://dev.claros.so
+  - name: Shop Site
+    url: https://shop.claros.so
   - name: Backend
-    url: https://mk1.claros.so:2053
+    url: https://back.claros.so
   - name: Dev Backend
-    url: https://mk1.claros.so:2083
+    url: https://the-back-dev.claros.so
 assignees:
   - anishthite
+  - mohandodda0
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
