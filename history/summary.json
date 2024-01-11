@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 983,
-    "timeDay": 554,
-    "timeWeek": 568,
-    "timeMonth": 731,
-    "timeYear": 983,
+    "time": 980,
+    "timeDay": 206,
+    "timeWeek": 509,
+    "timeMonth": 725,
+    "timeYear": 980,
     "dailyMinutesDown": {
       "2023-10-01": 77,
       "2023-06-13": 81
@@ -32,10 +32,10 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.96%",
     "time": 446,
-    "timeDay": 462,
-    "timeWeek": 1958,
-    "timeMonth": 984,
-    "timeYear": 469,
+    "timeDay": 507,
+    "timeWeek": 1339,
+    "timeMonth": 998,
+    "timeYear": 470,
     "dailyMinutesDown": {
       "2024-01-01": 18,
       "2023-12-31": 18,
@@ -53,16 +53,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/the-back-dev.claros.so.ico",
     "slug": "dev-backend",
     "status": "up",
-    "uptime": "69.21%",
+    "uptime": "69.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "79.83%",
-    "time": 978,
-    "timeDay": 102,
-    "timeWeek": 442,
-    "timeMonth": 485,
-    "timeYear": 1082,
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "80.10%",
+    "time": 977,
+    "timeDay": 628,
+    "timeWeek": 456,
+    "timeMonth": 494,
+    "timeYear": 1083,
     "dailyMinutesDown": {
       "2024-01-02": 46,
       "2023-12-28": 16,
@@ -147,8 +147,7 @@
       "2023-01-15": 1440,
       "2023-01-14": 1440,
       "2023-01-13": 1440,
-      "2023-01-12": 1440,
-      "2023-01-11": 1440
+      "2023-01-12": 1440
     }
   }
 ]
