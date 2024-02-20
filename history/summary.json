@@ -29,9 +29,9 @@
     "slug": "backend",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.91%",
     "time": 547,
     "timeDay": 365,
@@ -39,7 +39,6 @@
     "timeMonth": 883,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2024-02-19": 12,
       "2024-02-08": 24,
       "2024-01-26": 80,
       "2024-01-25": 29,
@@ -67,7 +66,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "91.02%",
+    "uptimeYear": "91.03%",
     "time": 940,
     "timeDay": 450,
     "timeWeek": 474,
@@ -127,8 +126,7 @@
       "2023-02-24": 1440,
       "2023-02-23": 1440,
       "2023-02-22": 1440,
-      "2023-02-21": 1440,
-      "2023-02-20": 1440
+      "2023-02-21": 1440
     }
   }
 ]
