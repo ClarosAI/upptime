@@ -1,7 +1,7 @@
 url: https://the-back-dev.claros.so
-status: up
-code: 200
-responseTime: 250
-lastUpdated: 2024-03-17T23:13:17.007Z
+status: down
+code: 502
+responseTime: 554
+lastUpdated: 2024-03-18T09:36:58.737Z
 startTime: 2022-11-15T00:15:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
