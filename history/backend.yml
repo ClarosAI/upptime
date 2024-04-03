@@ -1,7 +1,7 @@
 url: https://back.claros.so
-status: up
-code: 200
-responseTime: 319
-lastUpdated: 2024-04-02T23:13:15.580Z
+status: down
+code: 503
+responseTime: 894
+lastUpdated: 2024-04-03T19:36:06.059Z
 startTime: 2022-07-05T18:44:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
