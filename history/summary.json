@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.claros.so.ico",
     "slug": "shop-site",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 600,
-    "timeDay": 368,
-    "timeWeek": 751,
-    "timeMonth": 510,
-    "timeYear": 544,
+    "timeDay": 166,
+    "timeWeek": 492,
+    "timeMonth": 496,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2024-01-17": 34,
       "2024-01-12": 37
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.22%",
     "time": 741,
-    "timeDay": 375,
-    "timeWeek": 603,
-    "timeMonth": 728,
+    "timeDay": 334,
+    "timeWeek": 623,
+    "timeMonth": 725,
     "timeYear": 808,
     "dailyMinutesDown": {
       "2024-12-07": 19,
@@ -79,8 +79,7 @@
       "2024-01-01": 18,
       "2023-12-31": 18,
       "2023-12-28": 21,
-      "2023-12-21": 31,
-      "2023-12-20": 11
+      "2023-12-21": 31
     }
   },
   {
@@ -89,16 +88,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/the-back-dev.claros.so.ico",
     "slug": "dev-backend",
     "status": "up",
-    "uptime": "78.41%",
+    "uptime": "78.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "90.31%",
     "time": 664,
-    "timeDay": 537,
-    "timeWeek": 384,
-    "timeMonth": 525,
-    "timeYear": 703,
+    "timeDay": 652,
+    "timeWeek": 461,
+    "timeMonth": 537,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2024-11-29": 27,
       "2024-11-27": 26,
@@ -183,8 +182,7 @@
       "2024-01-13": 18,
       "2024-01-11": 20,
       "2024-01-02": 46,
-      "2023-12-28": 16,
-      "2023-12-20": 24
+      "2023-12-28": 16
     }
   }
 ]
