@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 364,
-    "timeWeek": 232,
-    "timeMonth": 253,
+    "time": 462,
+    "timeDay": 377,
+    "timeWeek": 230,
+    "timeMonth": 260,
     "timeYear": 435,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/back.claros.so.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "96.94%",
+    "uptime": "96.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "13.70%",
-    "uptimeYear": "92.53%",
+    "uptimeMonth": "10.41%",
+    "uptimeYear": "92.25%",
     "time": 817,
-    "timeDay": 69,
-    "timeWeek": 85,
-    "timeMonth": 200,
-    "timeYear": 824,
+    "timeDay": 112,
+    "timeWeek": 89,
+    "timeMonth": 195,
+    "timeYear": 823,
     "dailyMinutesDown": {
-      "2025-06-24": 58,
+      "2025-06-25": 59,
+      "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -97,8 +98,7 @@
       "2024-07-15": 21,
       "2024-07-13": 15,
       "2024-07-12": 24,
-      "2024-06-28": 24,
-      "2024-06-25": 18
+      "2024-06-28": 24
     }
   },
   {
@@ -107,18 +107,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/the-back-dev.claros.so.ico",
     "slug": "dev-backend",
     "status": "down",
-    "uptime": "79.91%",
+    "uptime": "79.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "13.66%",
+    "uptimeMonth": "10.37%",
     "uptimeYear": "84.56%",
     "time": 659,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 435,
+    "timeMonth": 484,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2025-06-24": 58,
+      "2025-06-25": 59,
+      "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -195,8 +196,7 @@
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
-      "2024-06-26": 1440,
-      "2024-06-25": 1440
+      "2024-06-26": 1440
     }
   }
 ]
